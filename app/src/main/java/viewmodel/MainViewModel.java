@@ -155,5 +155,6 @@ public class MainViewModel extends BaseObservable {
                 mPlayer.seekRelativeMillis(10000);
                 break;
         }
+
     }
 }
