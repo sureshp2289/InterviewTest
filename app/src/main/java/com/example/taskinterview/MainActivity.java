@@ -1,14 +1,11 @@
 package com.example.taskinterview;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.databinding.DataBindingUtil;
-
-import android.app.Activity;
 import android.os.Bundle;
+
+import androidx.databinding.DataBindingUtil;
 
 import com.example.taskinterview.databinding.ActivityMainBinding;
 import com.google.android.youtube.player.YouTubeBaseActivity;
-import com.google.android.youtube.player.YouTubePlayer;
 
 import viewmodel.MainViewModel;
 
